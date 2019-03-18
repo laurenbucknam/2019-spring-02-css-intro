@@ -1,0 +1,18 @@
+body {
+	background-color: white;
+	color: #456;
+    font-style: arial;
+}
+
+header h1 {background-color: yellow;}
+head {background-color: yellow;}
+body {
+  color: black;
+}
+
+img {border-style:solid;border-color: yellow;}
+.hairbun li {border-bottom: 2px solid black;list-style-type: none;
+  margin: 0;
+  padding: 0;}
+.underline {text-decoration: underline;}
+footer {background-color: grey}
